@@ -1,4 +1,5 @@
 alooo gege afk disini 👋
+
 separuh ngoding, separuh afk 
 
  ──────────────────────────────────
@@ -9,6 +10,7 @@ mahasiswa Teknologi Rekayasa Sistem Elektronika (baru semester 3)
 
 still learning, about how to speak in
 - C++ and python
+  
 and how to built something with 
 - Arduino
 - Mikrokontroler
@@ -16,6 +18,6 @@ and how to built something with
 
  ──────────────────────────────────
 
-*I'm still learning, so please guide me when I get lost.* 💻🌱
+*I'm still learning, so please guide me when I get lost.* 
 
-**Let's learn and grow together! 🚀**
+**Let's learn and grow together! **
