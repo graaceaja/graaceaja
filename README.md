@@ -1,10 +1,9 @@
-#alooo gege afk disini 👋
-
+<h1 align="center">alooo gege afk disini 👋 </h1> 
 separuh ngoding, separuh afk 
 
  ──────────────────────────────────
  
-##sneak peak about me
+sneak peak about me
 
 mahasiswa Teknologi Rekayasa Sistem Elektronika (baru semester 3)
 
