@@ -1,16 +1,21 @@
-## Hi there 👋
+alooo gege afk disini 👋
+separuh ngoding, separuh afk 
 
-<!--
-**graaceaja/graaceaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ──────────────────────────────────
+ 
+sneak peak about me
 
-Here are some ideas to get you started:
+mahasiswa Teknologi Rekayasa Sistem Elektronika (baru semester 3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+still learning, about how to speak in
+- C++ and python
+and how to built something with 
+- Arduino
+- Mikrokontroler
+- Elektronika Digital
+
+ ──────────────────────────────────
+
+*I'm still learning, so please guide me when I get lost.* 💻🌱
+
+**Let's learn and grow together! 🚀**
