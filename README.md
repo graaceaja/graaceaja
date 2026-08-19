@@ -17,6 +17,6 @@ and how to built something with
 
  ──────────────────────────────────
 
-*I'm still learning, so please guide me when I get lost.* 
+*still learning, so please guide me when I get lost (udah hilang arah).* 
 
-**Let's learn and grow together!**
+
