@@ -19,4 +19,4 @@ and how to built something with
 
 *I'm still learning, so please guide me when I get lost.* 
 
-**Let's learn and grow together! **
+**Let's learn and grow together!**
